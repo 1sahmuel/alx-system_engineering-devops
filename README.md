@@ -1,1 +1,1 @@
-My first script
+0. Where am I?
